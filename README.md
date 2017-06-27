@@ -2,7 +2,7 @@
 ....you
 .....have
 ......reached
-.......the README.
+.......Phil Kim's README.
 
 “Little solace comes
 to those who grieve
