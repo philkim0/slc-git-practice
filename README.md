@@ -15,7 +15,7 @@ moments before the wind.”
 
 
 ― Mark Z. Danielewski, House of Leaves
-
+```
  ....
               d@@@@@@bo      @@.
                ~~~~~ Y@@     Y@@.
@@ -63,6 +63,8 @@ moments before the wind.”
                               ~~+++++*|*+++++~~
                                   ~~+++++~~                       
                                       ~    
+                                      ```
+                                      ```
             _ww   _a+"D
            y#,  _r^ # _*^  y`
           q0 0 a"   W*`    F   ____
@@ -92,14 +94,14 @@ moments before the wind.”
        .____awwmp_wNw#[w/`     ^#,      ~b___.
         ` ^^^~^"W___            ]Raaaamw~`^``^^~
 
-
+```
         Here is some text as my third edit, cus this README is getting long.
                   ^~"~---~~~~~~`
 
                   I must have messed up the ascii in that edit, but whatever. :)
 
                   Sailor Moon ASCII PogChamp
-
+```
                             iHOHOOOHH+               [ -Tim Park ]
                               HOOOOOOOOOOOOOOOOOOO=.;TI:
  .--.                    THOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
@@ -151,9 +153,9 @@ moments before the wind.”
 ==|=========+==::::::::=|==+++::::,:::::+====+===::::::::::::::::|
 ==|=========+==+:::::::++\===++;:::::::+++==\====+:::::::::::::::|
 ===|===========++:::::;++=\++=+++;::::+++=++=|=+++:::::::::::::::|
-
+```
 omg lil Totoros
-
+```
               /     \
               vvvvvvv  /|__/|
                  I   /O,O   |
@@ -161,9 +163,9 @@ omg lil Totoros
                 J|/^ ^ ^ \  |    /00  |    _//|
                  |^ ^ ^ ^ |W|   |/^^\ |   /oo |
                   \m___m__|_|    \m_m_|   \mm_|
-
+```
 Ascii art is an easy way to copy pasta edits in quick:
-
+```
 quu..__
  $$$b  `---.__
   "$$b        `--.                          ___.---uuudP
@@ -202,9 +204,9 @@ quu..__
                |   .:::------------\       /
               /   .''               >::'  /
               `',:                 :    .
-
+```
 Why not Zoidberg?
-
+```
          xmHTTTTT%ms.
                                                                     z?!!!!!!!!!!!!!!?m
                                                                   z!!!!!!!!!!!!!!!!!!!!%
@@ -252,10 +254,10 @@ E!!N!k     't!!!!!!!!!?:                       zTX?!t~ M!t!!!!!!!!!!!!!!UM!!!F 4
                                X!!!!!!t  H!!!!!!!!!!!!!!!!!!!!!!!!> !!!!!!!!!!!W!!!!!!!!!!!!!!!!!!!!!!!t
                                %!!!!!!F :!!!!!!!!!!!!!!!!!!!!!!!!!> !!!!!!!!!!!!#X!!!!!!!!!!!!!!!!!!!!X
                               '!!!!!!X  K!!!!!!!!!!!!!!!!!!!!!!!!!> K!!!!!!!!!!!!!?W!!!!!!!!!!!!!!!!X"
-
+```
 
 Mr Phillip Fry
-
+```
           7O
    @     GGG
   7R   CQGGQ
@@ -290,7 +292,7 @@ RGGGGGGGQ(//^///////RS(//RGGGGGGGGGt
         ^B@@BB@@@Q///^//#B@@@@@@@@@@@@@@BBBO
         /@@@BB@@@7OOCO#@@@@@@@@@@@@@@@@@@BBR#
         7@@B@B@@BC    /RB@@@@@@@@@@@@B@@@BBBBB
-
+```
 Bonus!
 
                ,'``.._   ,'``.
